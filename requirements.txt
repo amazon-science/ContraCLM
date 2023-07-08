@@ -1,0 +1,9 @@
+datasets==2.3.2
+deepspeed==0.6.7
+gputil
+jsonlines
+numpy==1.22.3
+pytorch-lightning==1.6.5
+tensorboard
+torch==1.11.0+cu113 --extra-index-url https://download.pytorch.org/whl/cu113
+transformers==4.22.0
