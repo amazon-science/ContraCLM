@@ -96,11 +96,27 @@ See the relevant task-specific directories [here](evaluation/).
 If you use our code in your research, please cite our work as:
 
 ```
-@inproceedings{jain2023contraclm,
-  title={CONTRACLM: Contrastive Learning For Causal Language Model},
-  author={Jain, Nihal and Zhang, Dejiao and Ahmad, Wasi Uddin and Wang, Zijian and Nan, Feng and Li, Xiaopeng and Tan, Ming and Nallapati, Ramesh and Ray, Baishakhi and Bhatia, Parminder and others},
-  booktitle={Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics},
-  year={2023}
+@inproceedings{jain-etal-2023-contraclm,
+    title = "{C}ontra{CLM}: Contrastive Learning For Causal Language Model",
+    author = "Jain, Nihal  and
+      Zhang, Dejiao  and
+      Ahmad, Wasi Uddin  and
+      Wang, Zijian  and
+      Nan, Feng  and
+      Li, Xiaopeng  and
+      Tan, Ming  and
+      Nallapati, Ramesh  and
+      Ray, Baishakhi  and
+      Bhatia, Parminder  and
+      Ma, Xiaofei  and
+      Xiang, Bing",
+    booktitle = "Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = jul,
+    year = "2023",
+    address = "Toronto, Canada",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.acl-long.355",
+    pages = "6436--6459"
 }
 ```
 
